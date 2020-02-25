@@ -95,7 +95,7 @@ void alg_func1(){
 		   		\nFor example, \"abc<<dd<<\" represents \"a\", and \"zzz<<<\" represents \"\".");
 }
 
-int main(int argc, _TCHAR* argv[])
+int main(int argc, char* argv[])
 {
     // ========== alg_func1 ==========
     alg_func1();
