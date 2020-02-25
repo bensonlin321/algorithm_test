@@ -1,7 +1,8 @@
 # algorithm_test
+
 1. Given a string with "a~z" and "<" that represent you type the keyboard ("<" means backspace).
-For example, "abc<<dd<<" represents "a", and "zzz<<<" represents "".
-不會出現刪到空格的情形，例如 "a<<"（我猜實際面試的時候這問題要你自己問）
+    - For example, "abc<<dd<<" represents "a", and "zzz<<<" represents "".
+    - 不會出現刪到空格的情形，例如 "a<<"（我猜實際面試的時候這問題要你自己問）
 
 ```
 基本
